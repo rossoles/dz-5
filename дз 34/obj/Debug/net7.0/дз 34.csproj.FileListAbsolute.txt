@@ -1,0 +1,15 @@
+C:\Users\Рус\Desktop\дз 34\bin\Debug\net7.0\дз 34.exe
+C:\Users\Рус\Desktop\дз 34\bin\Debug\net7.0\дз 34.deps.json
+C:\Users\Рус\Desktop\дз 34\bin\Debug\net7.0\дз 34.runtimeconfig.json
+C:\Users\Рус\Desktop\дз 34\bin\Debug\net7.0\дз 34.dll
+C:\Users\Рус\Desktop\дз 34\bin\Debug\net7.0\дз 34.pdb
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.csproj.AssemblyReference.cache
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.AssemblyInfoInputs.cache
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.AssemblyInfo.cs
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.csproj.CoreCompileInputs.cache
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.dll
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\refint\дз 34.dll
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.pdb
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\дз 34.genruntimeconfig.cache
+C:\Users\Рус\Desktop\дз 34\obj\Debug\net7.0\ref\дз 34.dll
